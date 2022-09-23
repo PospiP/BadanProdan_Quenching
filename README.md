@@ -4,4 +4,6 @@ Jupyter notebooks for Suplementary material attached to the published paper: htt
 
 [![DOI](https://zenodo.org/badge/540224116.svg)](https://zenodo.org/badge/latestdoi/540224116)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PospiP/BadanProdan_Quenching.git/HEAD)
+mybinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PospiP/BadanProdan_Quenching.git/HEAD)
+
+EGI Binder: [![Binder](https://binder.notebooks.egi.eu/badge_logo.svg)](https://binder.notebooks.egi.eu/v2/gh/PospiP/BadanProdan_Quenching.git/HEAD)
